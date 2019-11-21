@@ -1,0 +1,75 @@
+title{
+
+    color: magenta;
+    margin-left: 200px;
+    font-kerning: none;
+   
+}
+
+body{
+    background: #F5A9F2;
+    margin-left: 100px;
+    margin-right: 200px;
+
+}
+nav{
+    color: lightseagreen;
+    
+   
+    margin-left: 200px;
+
+}
+ul{
+color: lightblue;
+margin-left: 100px;
+}
+li{
+color: lightseagreen;
+margin-left: 100px;
+font-style: italic;
+}
+a{
+    color: lightseagreen;
+font-style: italic;
+}
+
+header {
+    margin-top: 100px;
+    color: lightseagreen;
+    
+}
+
+h1 {
+color: #04B4AE type="font-style";
+font-family: fantasy;
+
+}
+
+h2{
+    font-family: fantasy;
+}
+p{ color: #8A0868;
+    font-language-override:inherit;
+    font-size: 18px;
+}
+
+.img_padrao{
+    width: 300px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+.img_logo{
+    width: 30px;
+
+}
+.sessoes{
+    color: lightseagreen;
+    
+}
+footer{
+    color: mediumvioletred;
+    margin-bottom:50px;
+    margin-top: 50px;
+}
